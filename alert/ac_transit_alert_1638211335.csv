@@ -1,0 +1,454 @@
+id,active_period,informed_entity,cause,effect,header_text,description_text
+1,[],"[{'agency_id': '1', 'route_id': '701', 'stop_id': ''}, {'agency_id': '1', 'route_id': '702', 'stop_id': ''}, {'agency_id': '1', 'route_id': '706', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Early Bird Express changes,"For information about changes to Early Bird Express service as a result of the shelter-in-place orders, visit http://www.bart.gov/earlybirdexpress . 
+— 
+Cambios en el servicio Early Bird Express 
+Para más información sobre los cambios en el servicio Early Bird Express como resultado de las ordenes de refugio en el lugar, visite http://www.bart.gov/earlybirdexpress . 
+— 
+早班车快线调整 
+受居家避疫令影响，早班车快线调整，详情请访问http://www.bart.gov/earlybirdexpress"
+2,[],"[{'agency_id': '1', 'route_id': 'G', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'J', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'L', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'LA', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'NX', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'OX', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'P', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'U', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'V', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'W', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Transbay Riders Only,"Only transbay riders are allowed on lines G, J, L, LA, NX, OX, P, U, V, and W. Other Transbay lines allow local riders.  
+---  
+Sólo para pasajeros de Transbay 
+
+Solamente se permiten pasajeros de transbay en las líneas G, J, L, LA, NX, OX, P, U, V y W. Otras líneas de Transbay permiten pasajeros locales.  
+---  
+仅限跨湾乘客 
+
+以下线路仅限跨湾乘客搭乘：G, J, L, LA, NX, OX, P, U, V和W。其他跨湾线路允许本地乘客搭乘。"
+3,[],"[{'agency_id': '1', 'route_id': '36', 'stop_id': ''}, {'agency_id': '1', 'route_id': '52', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'F', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,"Detours on Lines 36, 52, and F","Detours on Lines 36, 52, and F 
+
+Due to: Event 
+
+Effective: 5:00 p.m.–11:30 p.m. December 4 
+
+Lines affected: 36, 52, and F 
+
+Please see the AC Transit website for more information: https://www.actransit.org/node/3950  
+--- 
+Desvíos en las líneas 36, 52 y F el sábado 4 de diciembre 
+
+Debido a: Evento 
+
+Efectivo: 5:00 p.m. – 11:30 p.m. del 4 de diciembre 
+
+Líneas afectadas: 36, 52 y F 
+
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/3950  
+--- 
+12月4日，星期六，36、52和F路巴士绕行 
+
+由于：事件 
+
+开始日期：晚上5:00到下午11:30 12月4日 
+
+受影响线路：36, 52和F 
+
+更多详情，请参考 AC Transit 的网站: https://www.actransit.org/zh/node/3950 "
+4,[],"[{'agency_id': '1', 'route_id': '210', 'stop_id': '1069'}]",CONSTRUCTION,STOP_MOVED,Line 210 Stop Closure,"Effective: 8:00 a.m.–4:00 p.m., Monday, November 29 through Saturday, December 4 
+Stop closed: Fremont Blvd. at Ferry Lane (Stop ID 58801) 
+Please see the AC Transit website for more information: https://www.actransit.org/node/3963 
+--- 
+Efectivo: 8:00 a.m.–4:00 p.m., desde el lunes, 29 de noviembre hasta el sábado, 4 de diciembre 
+Parada cerrada: Fremont Blvd. con Ferry Lane (Número de Identificación de Parada 58801) 
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/3963 
+--- 
+
+生效日期： 11月29日星期一至12月4日星期六，上午8:00-下午4:00 
+车站关闭：Fremont Blvd. 和 Ferry Lane 交叉口站(车站ID 58801) 
+更多详情，请参考 AC Transit 的网站: https://www.actransit.org/zh/node/3963"
+5,[],"[{'agency_id': '1', 'route_id': '620', 'stop_id': ''}]",OTHER_CAUSE,MODIFIED_SERVICE,Schedule for Line 620 adjusted,"Effective August 12, the schedule for afternoon trips on Line 620 has been adjusted in order to better meet bell times at Newark Junior High School.
+Please see the AC Transit web site for more information: https://www.actransit.org/node/2289
+
+---
+A partir del 12 de agosto, el horario de los viajes por la tarde de la línea 620 se ha ajustado para adecuarse mejor con los horarios escolares de Newark Junior High School. 
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/2289
+
+---
+从8月12日开始，620号线下午的行程安排调整生效，以便更好地协调纽瓦克初中的上下学时间。
+更多详情，请参考 AC Transit 的网站:  https://www.actransit.org/zh/node/2289"
+6,[],"[{'agency_id': '1', 'route_id': '95', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Schedule for Line 95 adjusted,"Effective September 7, the trip on Line 95 that leaves Hayward High School at 4:00 p.m. will leave three minutes later, at 4:03 p.m., arriving at Kelly St. & Eddy St. at 4:19 p.m. This trip will continue to operate on Mondays, Tuesdays, Thursdays, and Fridays when school is in session.  
+---  
+Se ajusta el horario de la línea 95 
+A partir del 7 de septiembre, el viaje de la línea 95 que sale de Hayward High School a las 4:00 p.m. saldrá tres minutos más tarde, a las 4:03 p.m., llegando a Kelly St. y Eddy St. a las 4:19 p.m. Este viaje continuará funcionando los lunes, martes, jueves y viernes cuando haya clases.  
+---  
+95号线时刻表调整 
+9月7日起，95号线原定于下午4:00驶离 Hayward High School，现延迟三分钟，于下午4:03发车，于下午4:19到达 Kelly St. & Eddy St.。该行程将在每周一、周二、周四和周五学校开课时运行。"
+7,[],"[{'agency_id': '1', 'route_id': '51B', 'stop_id': '5868'}, {'agency_id': '1', 'route_id': '51B', 'stop_id': '5869'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Line 51B stops closed,"Due to: Construction 
+
+Effective: September 15–December 15 
+
+Line affected: 51B 
+
+Please see the AC Transit website for more information: https://www.actransit.org/node/2785  
+--- 
+Cierre temporal de paradas de la línea 51B 
+
+Debido a: Trabajos de construcción 
+
+Efectivo: 15 de septiembre al 15 de diciembre 
+
+Línea afectada: 51B 
+
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/2785  
+--- 
+51B路巴士站临时关闭 
+
+由于：施工 
+
+开始日期：9月15日–12月15日 
+
+受影响线路：51B路 
+
+更多详情，请参考 AC Transit 的网站: https://www.actransit.org/zh/node/2785 "
+8,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': '4856'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Hesperian at W. Sunset Closed,"Effective: January 6 until further notice
+Lines affected: 93 and 97
+Stop closed: Hesperian Blvd. at West Sunset Blvd. (Stop ID 57070)
+Please see the AC Transit website for more information: http://www.actransit.org/?p=99560 
+--- 
+Parada cerrada en Hesperian Blvd. con West Sunset Blvd.
+Efectivo: 6 de enero hasta nuevo aviso
+Líneas afectadas: 93 y 97
+Parada cerrada: Hesperian Blvd. con West Sunset Blvd. (Número de Identificación de Parada 57070)
+Por favor visite la página web de AC Transit para más información: http://www.actransit.org/?p=99560 
+--- 
+Hesperian Blvd. 和 West Sunset Blvd. 交叉口站
+生效日期：1月6日，直到另行通知
+受影响线路：93和97路
+受影响车站：Hesperian Blvd. 和 West Sunset Blvd. 交叉口站 (车站ID 57070)
+更多详情，请参考 AC Transit 的网站: http://www.actransit.org/?p=99560"
+9,[],"[{'agency_id': '1', 'route_id': '212', 'stop_id': '1397'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Extended: Line 212 Stop Closure,"Due to: Construction  
+
+Effective: 8:00 a.m.–5:00 p.m. daily November 1–December 10 
+
+Please see the AC Transit website for more information: https://www.actransit.org/node/3540  
+---  
+Extendido: Cierre de parada de la línea 212 
+
+Debido a: Trabajos de construcción  
+
+Efectivo: 8:00 a.m.–5:00 p.m. diario del 1 de noviembre al 10 de diciembre 
+
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/3540  
+---  
+延期：212路车站关闭 
+
+由于：施工 
+
+生效日期：11月1日–12月10日，每天早上8:00到下午5:00 
+
+更多详情，请参考 AC Transit 的网站: https://www.actransit.org/zh/node/3540 "
+10,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': '211'}, {'agency_id': '1', 'route_id': '', 'stop_id': '203'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Posey Tube Closure Dec. 2-3,"Effective: 10:00 p.m. Dec. 2–5:00 a.m. Dec. 3 
+
+Lines affected: 20, 51A, 96, 851, and O 
+
+Please see the AC Transit website for more information:  
+https://www.actransit.org/node/3947  
+--- 
+Cierres nocturnos del túnel Posey
+
+Efectivo: 10:00 p.m. 2 de diciembre a 5:00 a.m. 3 de diciembre 
+
+Líneas afectadas: 20, 51A, 96, 851 y O 
+
+Por favor visite la página web de AC Transit para más información:  
+https://www.actransit.org/es/node/3947  
+--- 
+波西隧道（Posey Tube）于夜间关闭
+
+开始日期：12月2日晚上10:00，到12月3日早上5:55 
+ 
+受影响线路：20, 51A, 96, 851和O路 
+
+更多详情，请参考 AC Transit 的网站:  
+https://www.actransit.org/zh/node/3947 "
+11,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': '4155'}, {'agency_id': '1', 'route_id': '', 'stop_id': '5046'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Fred Jackson Way Stops Closed,"Due to: Construction 
+
+Effective: 8:00 a.m.–5:00 p.m. weekdays, September 29–December 31 
+
+Please see the AC Transit website for more information: https://www.actransit.org/node/3106  
+--- 
+Cierre temporal de paradas de las líneas 76 y 667 
+
+Debido a: Trabajos de construcción 
+
+Efectivo: 8:00 a.m. a 5:00 p.m. entre semana, del 29 de septiembre al 31 de diciembre 
+
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/3106  
+--- 
+76路和667路巴士站临时关闭 
+
+由于：施工 
+
+开始日期：9月29日–12月31日，工作日早上8：00到下午5：00 
+
+更多详情，请参考 AC Transit 的网站: https://www.actransit.org/zh/node/3106 "
+12,[],"[{'agency_id': '1', 'route_id': '65', 'stop_id': ''}]",OTHER_CAUSE,MODIFIED_SERVICE,Schedule for Line 65 adjusted,"Effective August 16, the first two trips on Line 65 have been adjusted in order to better meet bell times at Berkeley High School. Times on those trips have been adjusted to be 10 minutes earlier.  
+Please see the AC Transit website for more information: https://www.actransit.org/node/2298  
+--- 
+A partir del 16 de agosto, los dos primeros viajes de la línea 65 se ajustarán para adecuarse mejor con los horarios escolares de Berkeley High School. Los horarios para esos viajes se han ajustado para que sean 10 minutos más temprano. 
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/2298  
+--- 
+从 8 月 16 日起，65号线的前两个班次时刻表有所调整，以便更好地协调伯克利高中的上下学时间。这些班次的时刻表将提前10分钟。 
+更多详情，请参考 AC Transit 的网站: https://www.actransit.org/zh/node/2298 "
+13,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': '3409'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,San Pablo at 36th Stop Move,"
+Effective: As of November 19 
+Lines affected:  
+72 to Jack London Sq.  
+72M to Jack London Sq.  
+802 to Uptown Transit Center 
+Stop closed: San Pablo Ave. at 36th St. (Stop ID 55785) 
+New stop: San Pablo Ave. at 35th St. (Board 220 feet ahead across 35th St.) 
+---  
+Traslado de la parada en San Pablo Ave. con 36th St. 
+Efectivo: A partir del 19 de noviembre 
+Líneas afectadas:  
+72 hacia Jack London Sq.  
+72M hacia Jack London Sq.  
+802 hacia Uptown Transit Center 
+Parada cerrada: San Pablo Ave. con 36th St. (Número de Identificación de Parada 55785) 
+Nueva parada: San Pablo Ave. con 35th St. (Súbase a bordo 220 pies más adelante al otro lado de 35th Ave.) 
+---  
+San Pablo Ave. 和 36th St. 交叉口站调整 
+开始日期：11月19日 
+受影响线路：  
+开往 Jack London Sq. 的72路  
+开往 Jack London Sq. 的72M路  
+开往 Uptown Transit Center 的802路 
+受影响车站：San Pablo Ave. 和 36th St. 交叉口站 (车站ID 55785) 
+新车站：San Pablo Ave. 和 35th St. (35th St. 方向前行220英尺处乘车。) "
+14,[],"[{'agency_id': '1', 'route_id': '621', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Schedule for Line 621 adjusted,"Effective September 13, the trip on Line 621 that leaves Thornton Junior High School at 2:44 p.m. will leave ten minutes earlier, at 2:34 p.m., and arrive at Ardenwood Blvd. & Commerce Dr. at 2:50 p.m. This trip will continue to operate on weekdays when school is in session. The printable PDF timetable on the AC Transit web site has been updated.  
+---  
+Se ajusta el horario de la línea 621 
+A partir del 13 de septiembre, el viaje de la línea 621 que sale de Thornton Junior High School a las 2:44 p.m. saldrá diez minutos antes, a las 2:34 p.m., y llegará a Ardenwood Blvd. y Commerce Dr. a las 2:50 p.m. Este viaje seguirá funcionando entre semana cuando haya clases. La tabla de horarios para imprimir en formato PDF del sitio web de AC Transit ha sido actualizada.  
+---  
+621号线时刻表调整
+从9月13日起，于下午2:44驶离 Thornton Junior High School 的621号线将提前十分钟，于下午2:34发车，于下午2:50到达 Ardenwood Blvd. & Commerce Dr.。这些班次在开学期间的工作日继续运行。可打印PDF时刻表已在 AC Transit 官网更新。"
+15,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': '620'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT, San Pablo Ave. Temp Stop Move,"Effective: September 27–December 1 
+
+Lines affected: 72, 72M, 72R, and 802 
+
+Stop closed: San Pablo Ave. at Ashby Ave. (Stop ID 52228) 
+
+New stop: San Pablo Ave. at the south side of Murray St. (Temporary stop) 
+
+Due to: Construction
+---
+Traslado temporal de la parada en San Pablo Ave. 
+
+Efectivo: 27 de septiembre a 1 de diciembre 
+
+Líneas afectadas: 72, 72M, 72R y 802 
+
+Parada cerrada: San Pablo Ave. con Ashby Ave. (Número de Identificación de Parada 52228) 
+
+Nueva parada: San Pablo Ave. al lado sur de Murray St. (Parada temporal) 
+
+Due to: Trabajos de construcción
+---
+San Pablo Ave. 的车站暂停服务 
+
+开始日期：9月27日–12月1日 
+
+受影响线路：72, 72M, 72R和802路 
+
+车站关闭：San Pablo Ave. 和 Ashby Ave. 交叉口路南站 (车站ID 52228) 
+
+新站：San Pablo Ave. 和 Murray St. 交叉口路南站（临时站）
+
+由于：施工
+"
+16,[],"[{'agency_id': '1', 'route_id': '10', 'stop_id': '6251'}, {'agency_id': '1', 'route_id': '801', 'stop_id': '6251'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,E. 14th at Elgin stop closed,"Effective: Immediately, until further notice 
+Lines affected: 10 and 801 
+Stop closed: East 14th St. at Elgin St. (Temporary stop) 
+Alternative:  
+East 14th St. at 164th Ave. (Stop ID 52986)  
+East 14th St. at 170th Ave. (Stop ID 51773) 
+Due to: Construction  
+---  
+Cierre de la parada en East 14th St. con Elgin St. 
+Efectivo: Inmediatamente hasta nuevo aviso 
+Líneas afectadas: 10 y 801 
+Parada cerrada: East 14th St. con Elgin St. (Parada temporal) 
+Alternativas:  
+East 14th St. con 164th Ave. (Número de Identificación de Parada 52986)  
+East 14th St. con 170th Ave. (Número de Identificación de Parada 51773) 
+Debido a: Trabajos de construcción  
+---
+East 14th St. 和 Elgin St. 交叉口站暂停服务 
+开始日期：立即生效，直到另行通知 
+受影响线路：10和801路 
+车站关闭：East 14th St. 和 Elgin St. 交叉口站（临时站) 
+其他选择：  
+East 14th St. 和 164th Ave. 交叉口站（车站ID 52986)  
+East 14th St. 和 170th Ave. 交叉口站（车站ID 51773) 
+由于：施工
+"
+17,[],"[{'agency_id': '1', 'route_id': '10', 'stop_id': '1479'}, {'agency_id': '1', 'route_id': '28', 'stop_id': '1479'}, {'agency_id': '1', 'route_id': '60', 'stop_id': '1479'}, {'agency_id': '1', 'route_id': '93', 'stop_id': '1479'}, {'agency_id': '1', 'route_id': '95', 'stop_id': '1479'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Stop Change: Downtown Hayward,"Due to construction, the bus stop on C Street at Mission Boulevard in Hayward serving lines 10, 28, 60, 93, 94, and 95 will be temporarily relocated to C Street at Watkins Street effective immediately and until further notice. 
+— 
+Traslado temporal de la parada de autobús en Downtown Hayward
+
+Debido a los trabajos de construcción, la parada de autobús en C Street con Mission Boulevard en Hayward que recibe servicio de las líneas 10, 28, 60, 93, 94 y 95 se trasladará temporalmente a C Street con Watkins Street con efecto inmediato y hasta nuevo aviso. 
+— 
+Downtown Hayward 巴士站临时调整
+
+受到施工活动的影响，10, 28, 60, 93, 94和95路巴士在 Hayward 的 C Street 和 Mission Boulevard 交叉口站将转移到 C Street 和 Watkins Street 交叉口站，直到另行通知。"
+18,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': '5197'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Broadway Ave. at 15th St. Stop,"Permanent Stop Closure on Broadway Ave. at 15th St. 
+Effective: As of December 5 
+Lines affected: 71, 376, and 672 
+Stop closed: Broadway Ave. at 15th St. (Stop ID 50891) 
+Alternatives:  
+Broadway Ave. at 17th St. (Stop ID 55682)  
+Broadway Ave. at Rivers St. (Stop ID 56768)  
+---  
+Cierre permanente de parada en Broadway Ave. con 15th St. 
+Efectivo: A partir del 5 de diciembre 
+Líneas afectadas: 71, 376 y 672 
+Parada cerrada: Broadway Ave. con 15th St. (Número de Identificación de Parada 50891) 
+Alternativas:  
+Broadway Ave. con 17th St. (Número de Identificación de Parada 55682)  
+Broadway Ave. con Rivers St. (Número de Identificación de Parada 56768) 
+---  
+Broadway Ave. 和 15th St. 交叉口站调整 
+开始日期：12月5日 
+受影响线路：71, 376, 672 
+车站关闭：Broadway Ave. 和 15th St. 交叉口站(车站ID 50891) 
+备选车站：  
+Broadway Ave. 和 17th St. 交叉口站(车站ID 55682)  
+Broadway Ave. 和 Rivers St. 交叉口站(车站ID 56768)"
+19,[],"[{'agency_id': '1', 'route_id': '625', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Schedule for Line 625 adjusted,"Effective September 7, the trip on Line 625 that leaves Centerville Junior High School at 2:45 p.m. will leave three minutes later, at 2:48 p.m., arriving at Niles Blvd. & El Portal Ave. at 3:09 p.m. This trip will continue to operate on Mondays, Tuesdays, Thursdays, and Fridays when school is in session. The printable PDF timetable has been updated.  
+---  
+Se ajusta el horario de la línea 625 
+A partir del 7 de septiembre, el viaje de la línea 625 que sale de Centerville Junior High School a las 2:45 p.m. saldrá tres minutos más tarde, a las 2:48 p.m., llegando a Niles Blvd. y El Portal Ave. a las 3:09 p.m. Este viaje continuará funcionando los lunes, martes, jueves y viernes cuando haya clases. La tabla de horarios para imprimir en formato PDF ha sido actualizada.  
+---  
+625号线时刻表调整 
+9月7日起，625号线原定于下午2:45驶离 Centerville Junior High School，现延迟三分钟，于下午2:48发车，于3:09到达 Niles Blvd. & El Portal Ave.。该行程将在每周一、周二、周四和周五学校开课时运行。可打印的PDF时间表已更新。"
+20,[],"[{'agency_id': '1', 'route_id': '626', 'stop_id': ''}, {'agency_id': '1', 'route_id': '629', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Lines 626 and 629 adjusted,"Effective September 13, the trips on Line 626 and 629 that leave Newark Memorial High School at 4:00 p.m. will leave ten minutes earlier, at 3:50 p.m. The Line 626 trip will arrive at Lido Faire Shopping Center at 4:08 p.m., while the Line 629 trip will arrive at Lido Faire at 4:13 p.m.  
+---  
+Se ajusta el horario de las líneas 626 y 629 
+A partir del 13 de septiembre, los viajes de las líneas 626 y 629 que salen de Newark Memorial High School a las 4:00 p.m. saldrán diez minutos antes, a las 3:50 p.m. El viaje de la Línea 626 llegará a Lido Faire Shopping Center a las 4:08 p.m., mientras que el viaje de la Línea 629 llegará a Lido Faire a las 4:13 p.m.  
+---  
+626和629号线时刻表调整 
+从9月13日起，于下午4:00驶离 Newark Memorial High School的626和629号线将提前十分钟，于下午3:50发车。626号线于下午4:08到达 Lido Faire Shopping Center，629号线于下午4:13到达 Lido Faire。"
+21,[],"[{'agency_id': '1', 'route_id': '97', 'stop_id': '4853'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Hesperian at Paseo Grande Closed,"Effective: Immediately, until further notice
+Line affected: 97 to Bay Fair BART
+Stop closed: Hesperian Blvd. at Paseo Grande (Stop ID 57600)
+Alternative: Hesperian Blvd. at Grant Ave.  (Stop ID 52242)
+Due to: Construction
+--- 
+Cierre de la parada en Hesperian Blvd. con Paseo Grande
+Efectivos: Inmediatamente hasta nuevo aviso
+Línea afectadas: 97 hacia Bay Fair BART
+Parada cerrada: Hesperian Blvd. con Paseo Grande (Número de Identificación de Parada 57600)
+Alternativa: Hesperian Blvd. con Grant Ave. (Número de Identificación de Parada 52242)
+Debido a: Trabajos de construcción
+---- 
+Hesperian Blvd. 和 Paseo Grande 交叉口站暂停服务
+开始日期: 即刻开始直到另行通知
+受影响线路： 开往 Bay Fair BART 的97路
+车站关闭： Hesperian Blvd. 和 Paseo Grande 交叉口路北站（车站ID 57600)
+其他选择：Hesperian Blvd. 和 Grant Ave. 交叉口路北站（车站ID 52242)
+由于：施工
+"
+22,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Service Changes December 5,"Winter Service Changes Effective Sunday, December 5
+
+The December 5 upcoming service changes will meet ridership growth accordingly, with service increasing to 85% of pre-pandemic levels. 
+
+Please see the AC Transit website for more information: 
+https://www.actransit.org/article/service-changes-effective-december-5-2021  
+--- 
+Cambios en el servicio de AC Transit efectivos el domingo, 5 de diciembre 
+
+Los próximos cambios de servicio del 5 de diciembre responderán al crecimiento del número de pasajeros, con un aumento del servicio al 85% de los niveles anteriores a la pandemia. 
+
+Por favor visite la página web de AC Transit para más información: 
+https://www.actransit.org/es/article/service-changes-effective-december-5-2021  
+--- 
+AC Transit 服务变更自 2021 年 12 月 5 日周日生效 
+
+12 月 5 日起实施的服务变更将相应满足客流量的增长，服务将增加至疫情前水平的 85%。
+
+更多详情，请参考 AC Transit 的网站: 
+https://www.actransit.org/zh/article/service-changes-effective-december-5-2021"
+23,[],"[{'agency_id': '1', 'route_id': '57', 'stop_id': '3605'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Line 57 Stop Closed,"Effective: Immediately until further notice 
+Line affected: 57 to Emeryville 
+Stop closed: West MacArthur Blvd. at Piedmont Ave. (Stop ID 57977) 
+Alternatives:  
+West MacArthur Blvd. at Moss Ave. (Stop ID 54822)  
+West MacArthur Blvd. at Broadway (Stop ID 51955)  
+---  
+Cierre de parada de la línea 57 
+Efectivo: Inmediatamente hasta nuevo aviso 
+Línea afectada: 57 hacia Emeryville 
+Parada cerrada: West MacArthur Blvd. con Piedmont Ave. (Número de Identificación de Parada 57977) 
+Alternativas:  
+West MacArthur Blvd. con Moss Ave. (Número de Identificación de Parada 54822)  
+West MacArthur Blvd. con Broadway (Número de Identificación de Parada 51955)  
+---  
+57路车站关闭 
+生效日期：立即生效，直到另行通知 
+受影响线路：开往 Emeryville 的57路 
+车站关闭：West MacArthur Blvd. 和 Piedmont Ave. 交叉口站（车站ID 57977) 
+其他选择：  
+West MacArthur Blvd. 和 Moss Ave. 交叉口站（车站ID 54822)  
+West MacArthur Blvd. 和 Broadway 交叉口站（车站ID 51955)
+"
+24,[],"[{'agency_id': '1', 'route_id': '800', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'E', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'F', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'NL', 'stop_id': ''}, {'agency_id': '1', 'route_id': 'O', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Local Riders Allowed,"Local riders are allowed on Transbay lines E, F, NL, O and 800, but not on others. You must inform your driver before paying your fare – the driver will change the farebox or Clipper reader to deduct the proper fare amount.  
+---  
+Pasajeros locales permitidos 
+
+Los pasajeros locales están permitidos en las líneas Transbay  E, F, NL, O y 800, pero no en otras. Usted debe informar a su conductor antes de pagar su tarifa; el conductor cambiará la máquina de boletos o el lector de Clipper para deducir la cantidad apropiada para la tarifa.  
+---  
+允许本地乘客乘车 
+
+本地乘客仅限搭乘以下跨湾线路：E, F, NL, O和800，禁止搭乘其他跨湾线路。您必须在支付车票之前告知司机-司机需要设置售票机或 Clipper 读卡器，只收取对应的乘车费用。"
+25,[],"[{'agency_id': '1', 'route_id': '67', 'stop_id': ''}, {'agency_id': '1', 'route_id': '7', 'stop_id': ''}]",OTHER_CAUSE,ADDITIONAL_SERVICE,Trips added on lines 7 and 67,"Beginning Monday, September 20, lines 7 and 67 will each have a trip added in order to better meet bell times at Berkeley High School.  
+
+Please see the AC Transit website for more information: https://www.actransit.org/node/2880  
+--- 
+Viajes añadidos en las líneas 7 y 67 
+
+A partir del lunes, 20 de septiembre, las líneas 7 y 67 tendrán un viaje añadido cada una para poder cumplir mejor con los horarios escolares en Berkeley High School. 
+
+Por favor visite la página web de AC Transit para más información: https://www.actransit.org/es/node/2880  
+--- 
+7号线和67号线增加行程 
+
+从9月20日，星期一开始，7和67号线将各增加一趟行程， 以配合伯克利高中的打铃课时间。 
+
+更多详情，请参考 AC Transit 的网站: https://www.actransit.org/zh/node/2880 
+"
+26,[],"[{'agency_id': '1', 'route_id': '1T', 'stop_id': ''}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Fare Payment Required to Ride,"Tempo riders are required to pay their fare before boarding and carry proof of payment. Riders who fail to show proof of payment may receive a citation.
+Learn more at actransit.org/fares-tickets-transfers or call 510-891-4777. 
+--- 
+Se requiere el pago de la tarifa para viajar
+Los pasajeros de Tempo deben pagar su tarifa antes de subir a bordo y llevar consigo el comprobante de pago. Los pasajeros que no muestren su comprobante de pago pueden recibir una citación.
+Para saber más, visite actransit.org/fares-tickets-transfers o llame al 510-891-4777.  
+--- 
+乘车需支付车费 
+Tempo 乘客必须在上车前支付车费，并携带付款证明。未能出示付款证明的乘客可能会收到罚单。  
+请访问 actransit.org/fares-tickets-transfers 或致电 510-891-4777 了解更多信息。 "
+27,[],"[{'agency_id': '1', 'route_id': '', 'stop_id': '1072'}]",UNKNOWN_CAUSE,UNKNOWN_EFFECT,Fremont at Gibraltar Stop Closed,"Effective: Immediately 
+Lines affected: 99, 210, 621, and 801 
+Stop closed: Fremont Blvd. at Gibraltar Dr. (Stop ID 51108) 
+Alternatives:  
+Fremont Blvd. at Alder Ave. (Stop ID 55229)  
+Fremont Blvd. at Nicolet Ave. (Stop ID 56625) 
+Due to: Road obstruction  
+---  
+Cierre de la parada en Fremont Blvd. Con Gibraltar Dr. 
+Efectivos: Inmediatamente 
+Líneas afectadas: 99, 210, 621 y 801 
+Parada cerrada: Fremont Blvd. con Gibraltar Dr. (Número de Identificación de Parada 51108) 
+Alternativas:  
+Fremont Blvd. con Alder Ave. (Número de Identificación de Parada 55229)  
+Fremont Blvd. con Nicolet Ave. (Número de Identificación de Parada 56625) 
+Debido a: Obstrucción en la carretera  
+---  
+Fremont Blvd. 和 Gibraltar Dr. 交叉口站暂停服务 
+开始日期：即刻开始 
+受影响线路：99, 210, 621和801路 
+车站关闭：Fremont Blvd. 和 Gibraltar Dr. 交叉口路北站（车站ID 51108) 
+其他选择：  
+Fremont Blvd. 和 Alder Ave. 交叉口路北站（车站ID 55229)  
+Fremont Blvd. 和 Nicolet Ave. 交叉口路北站（车站ID 56625) 
+由于：道路阻塞"
