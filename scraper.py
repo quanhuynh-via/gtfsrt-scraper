@@ -11,7 +11,8 @@ import time
 import urllib
 from urllib.request import urlopen
 
-AC_TRANSIT_TOKEN = 'A2C2196D9EEE62F31270C9202DC5276C'
+# replace with actual AC Transit token
+AC_TRANSIT_TOKEN = 'XXXXXXXXX'
 
 class GTFSEndpoint:
 	def __init__(self, url, vehicle, alert, trip_update):
