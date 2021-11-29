@@ -1,6 +1,6 @@
 # GTFS-RT Scraper
 
-The script scraper.py polls RT data from a couple transit authorities and store them in the appropriate directories (vehicle, alert, trip_update). This script assumes the directories already exist.
+The script scraper.py polls RT data from a couple transit authorities and store them in the appropriate directories (vehicle, alert, trip_update) as csv files. This script assumes the directories already exist.
 
 ## Prerequisites
 - python3
